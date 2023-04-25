@@ -10,6 +10,7 @@
     "com.atteneder.gltfast": "5.0.0"
   },
   "type": "library",
+  "private": true",
   "author": {
     "name": "MHTTP",
     "url": "https://mhttp.org"
